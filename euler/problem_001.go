@@ -23,6 +23,7 @@ func main() {
 			sum += i
 		}
 	}
+
 	fmt.Println("Sum: ", sum)
 
 }
